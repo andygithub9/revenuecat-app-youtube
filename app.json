@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "eas": {
+      "projectId": "56799f6c-55fa-4cb7-add3-03e2303a0a70"
+    }
+  },
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "56799f6c-55fa-4cb7-add3-03e2303a0a70"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.andygithub9.revenuecat2"
+    }
+  }
+}
